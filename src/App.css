@@ -13,6 +13,15 @@
   }
 }
 
+.potree_container {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
